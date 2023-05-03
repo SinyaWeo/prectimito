@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+  <entry key="access.token" value="Fill me in!"/>
+  <entry key="access.token.secret" value="Fill me in!"/>
+  <entry key="bearer.token" value="Fill me in!"/>
+  <entry key="client.id" value="Fill me in!"/>
+  <entry key="client.secret" value="Fill me in!"/>
+  <entry key="consumer.key" value="Fill me in!"/>
+  <entry key="consumer.key.secret" value="Fill me in!"/>
+  <entry key="db.url" value="resources/database/twitterbot.db"/>
+  <entry key="last.checked.date" value=""/>
+</map>
